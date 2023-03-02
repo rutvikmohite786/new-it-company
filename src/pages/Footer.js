@@ -39,8 +39,6 @@ function Footer() {
                                 <li><a href="https://www.facebook.com/" target="_blank"><i className="fa fa-facebook"></i></a></li>
                                 <li><a href="https://www.youtube.com/" target="_blank"><i className="fa fa-youtube-play"></i></a></li>
                             </ul>
-
-
                         </div>
                     </div>
                 </div>

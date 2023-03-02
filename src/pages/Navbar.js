@@ -19,7 +19,7 @@ const Navbar = () => {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                      </button>
-                     <a className="navbar-brand" href="index.html">N<span className="themecolor">i</span>M</a>
+                     <a className="navbar-brand" href="index.html">RUT<span className="themecolor">VI</span>K</a>
                   </div>
 
                   <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -28,11 +28,11 @@ const Navbar = () => {
                         <li><Link classNameName="nav-link" to="/about">About</Link></li>
                         <li><Link classNameName="nav-link" to="/work">Our Work</Link></li>
                         <li><Link classNameName="nav-link" to="/team">Team</Link></li>
-                        <li><a href="#four" className="page-scroll">Inspiration</a></li>
-                        <li><a href="#five" className="page-scroll">Status</a></li>
+                        <li><Link classNameName="nav-link" to="/inspire">Inspiration</Link></li>
+                        <li><Link classNameName="nav-link" to="/status">Status</Link></li>
                         <li><a href="#six" className="page-scroll">Testimonials</a></li>
-                        <li><a href="#seven" className="page-scroll">Services</a></li>
-                        <li><a href="#eight" className="page-scroll">Contact</a></li>
+                        <li><Link classNameName="nav-link" to="/service">Service</Link></li>
+                        <li><Link classNameName="nav-link" to="/contact">Contact</Link></li>
                      </ul>
                   </div>
                </div>

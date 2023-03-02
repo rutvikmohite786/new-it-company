@@ -3,7 +3,9 @@ import Navbar from "../pages/Navbar";
 import Footer from "../pages/Footer";
 import Aboutpage from "../pages/About";
 import Workpage from "../pages/Work";
-
+import Teampage from "../pages/Team";
+import Inspirepage from "../pages/Inspire";
+import Status from "../pages/Status";
 
 
 
@@ -29,6 +31,9 @@ function Home() {
             </section>
             <Aboutpage/>
             <Workpage/>
+            <Teampage/>
+            <Inspirepage/>
+            <Status/>
             <Footer/>
 
         </div>
