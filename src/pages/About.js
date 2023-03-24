@@ -3,38 +3,38 @@ import React from 'react';
 function Aboutpage() {
     return (
         <div>
-             <section class="aboutus white-background black" id="one">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 text-center black">
-                            <h3 class="title">ABOUT <span class="themecolor">US</span></h3>
-                            <p class="a-slog">Lorem ipsum dolor sit amet ne onsectetuer adipiscing elit. Aenean commodo ligula eget dolor in tashin ty</p>
+             <section className="aboutus white-background black" id="one">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-12 text-center black">
+                            <h3 className="title">ABOUT <span className="themecolor">US</span></h3>
+                            <p className="a-slog">Lorem ipsum dolor sit amet ne onsectetuer adipiscing elit. Aenean commodo ligula eget dolor in tashin ty</p>
                         </div>
                     </div>
-                    <div class="gap">
+                    <div className="gap">
 
                     </div>
 
-                    <div class="row about-box">
-                        <div class="col-sm-4 text-center">
-                            <div class="margin-bottom">
-                                <i class="fa fa-newspaper-o"></i>
+                    <div className="row about-box">
+                        <div className="col-sm-4 text-center">
+                            <div className="margin-bottom">
+                                <i className="fa fa-newspaper-o"></i>
                                 <h4>POWER OF FLEXIBILITY</h4>
-                                <p class="black">Nulla vitae libero pharetra augue. Etiam porta malesuada magna mollis euismod consectetur sem urdom tempus porttitor.</p>
+                                <p className="black">Nulla vitae libero pharetra augue. Etiam porta malesuada magna mollis euismod consectetur sem urdom tempus porttitor.</p>
                             </div>
                         </div>
-                        <div class="col-sm-4 about-line text-center">
-                            <div class="margin-bottom">
-                                <i class="fa fa-diamond"></i>
+                        <div className="col-sm-4 about-line text-center">
+                            <div className="margin-bottom">
+                                <i className="fa fa-diamond"></i>
                                 <h4>FULLY RESPONSIVE</h4>
-                                <p class="black">Nulla vitae libero pharetra augue. Etiam porta malesuada magna mollis euismod consectetur sem urdom tempus porttitor.</p>
+                                <p className="black">Nulla vitae libero pharetra augue. Etiam porta malesuada magna mollis euismod consectetur sem urdom tempus porttitor.</p>
                             </div>
                         </div>
-                        <div class="col-sm-4 text-center">
-                            <div class="margin-bottom">
-                                <i class="fa fa-area-chart"></i>
+                        <div className="col-sm-4 text-center">
+                            <div className="margin-bottom">
+                                <i className="fa fa-area-chart"></i>
                                 <h4>GREAT WEB IDEAS</h4>
-                                <p class="black">Nulla vitae libero pharetra augue. Etiam porta malesuada magna mollis euismod consectetur sem urdom tempus porttitor.</p>
+                                <p className="black">Nulla vitae libero pharetra augue. Etiam porta malesuada magna mollis euismod consectetur sem urdom tempus porttitor.</p>
                             </div>
                         </div>
                     </div>
