@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/new-it-company/static/css/main.b9602049.css",
+    "main.js": "/new-it-company/static/js/main.8ef5fdfe.js",
+    "static/js/787.bc7d429a.chunk.js": "/new-it-company/static/js/787.bc7d429a.chunk.js",
+    "static/media/img-1.jpg": "/new-it-company/static/media/img-1.af8a3ff9a92521a9a5f2.jpg",
+    "static/media/main.jpg": "/new-it-company/static/media/main.de94a8f2871115c82890.jpg",
+    "static/media/work-3.jpg": "/new-it-company/static/media/work-3.6826a9115cae5aeaa349.jpg",
+    "static/media/img-2.jpg": "/new-it-company/static/media/img-2.cb7d24081b223139ab49.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/new-it-company/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/work-1.jpg": "/new-it-company/static/media/work-1.40dd62530229e7b8b53e.jpg",
+    "static/media/work-2.jpg": "/new-it-company/static/media/work-2.643bc4d63a3024632f62.jpg",
+    "static/media/glyphicons-halflings-regular.ttf": "/new-it-company/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/new-it-company/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/new-it-company/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/new-it-company/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/new-it-company/index.html",
+    "main.b9602049.css.map": "/new-it-company/static/css/main.b9602049.css.map",
+    "main.8ef5fdfe.js.map": "/new-it-company/static/js/main.8ef5fdfe.js.map",
+    "787.bc7d429a.chunk.js.map": "/new-it-company/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9602049.css",
+    "static/js/main.8ef5fdfe.js"
+  ]
+}
